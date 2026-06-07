@@ -1,0 +1,30 @@
+{
+  "name": "@ikenga/skill-contribute",
+  "version": "0.1.0",
+  "description": "ikenga-contribute — a contributor's copilot for Ikenga: draft issues, run the PR workflow, onboard as a pkg author.",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "agent-skills",
+    "skills",
+    "ikenga",
+    "contributing",
+    "open-source"
+  ],
+  "homepage": "https://ikenga.dev/docs/contributing",
+  "bugs": {
+    "url": "https://github.com/royalti-io/ikenga-contribute/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalti-io/ikenga-contribute.git"
+  },
+  "license": "Apache-2.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "skills/"
+  ]
+}
