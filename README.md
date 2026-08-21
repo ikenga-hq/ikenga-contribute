@@ -11,13 +11,13 @@ Two invariants: it **consumes the project's published conventions** (never inven
 ## Install
 
 ```bash
-npx skills add royalti-io/ikenga-contribute
+npx skills add ikenga-hq/ikenga-contribute
 ```
 
 Or via the install script:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/royalti-io/ikenga-contribute/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ikenga-hq/ikenga-contribute/main/install.sh | bash
 ```
 
 Inside a running Ikenga shell, install it from the Ọba catalog.
@@ -28,6 +28,6 @@ Invoke `/ikenga-contribute` and say what you want — file an issue, open a PR, 
 
 ## Source
 
-This repo is the distribution mirror. The canonical source lives in the [`ikenga-pkgs`](https://github.com/Royalti-io/ikenga-pkgs) monorepo at `packages/skills/contribute/`.
+This repo is the distribution mirror. The canonical source lives in the [`ikenga-pkgs`](https://github.com/ikenga-hq/ikenga-pkgs) monorepo at `packages/skills/contribute/`.
 
 Apache-2.0.

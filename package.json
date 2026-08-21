@@ -13,11 +13,11 @@
   ],
   "homepage": "https://ikenga.dev/docs/contributing",
   "bugs": {
-    "url": "https://github.com/royalti-io/ikenga-contribute/issues"
+    "url": "https://github.com/ikenga-hq/ikenga-contribute/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/royalti-io/ikenga-contribute.git"
+    "url": "git+https://github.com/ikenga-hq/ikenga-contribute.git"
   },
   "license": "Apache-2.0",
   "private": true,
